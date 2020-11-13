@@ -11,6 +11,8 @@
     "axios": "^0.21.0",
     "better-scroll": "^2.0.5",
     "core-js": "^3.6.5",
+    "fastclick": "^1.0.6",
+    "path": "^0.12.7",
     "vue": "^2.6.11",
     "vue-router": "^3.4.8",
     "vuex": "^3.5.1"
@@ -50,5 +52,17 @@
     "no-console": "off",
     "no-irregular-whitespace": "off",
     "no-debugger": "off"
-  }
+  },
+  "description": "## Project setup ``` npm install ```",
+  "main": "babel.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fanchunchen/mallvue.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fanchunchen/mallvue/issues"
+  },
+  "homepage": "https://github.com/fanchunchen/mallvue#readme"
 }

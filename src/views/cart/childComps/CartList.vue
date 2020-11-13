@@ -28,8 +28,12 @@ export default {
 </script>
 <style  scoped>
 .cart-list {
-  height: 100vh;
+  height: 534px;
   position: relative;
+  top:0;
+  left:0;
+  right:0;
+  bottom:0
 }
 .content {
   position: absolute;
@@ -37,6 +41,7 @@ export default {
   right: 0;
   top: 0;
   bottom: 0;
-  overflow: hidden;
+  overflow: hidden; 
+  
 }
 </style>
